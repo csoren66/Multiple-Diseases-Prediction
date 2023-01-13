@@ -1,4 +1,5 @@
 # Multiple Disease Predictor
+![af86a62f-8439-4645-b4d9-71a90e8c78d7](https://user-images.githubusercontent.com/67580321/212327020-285886a1-5571-49be-b0e4-7c3c86d2b43c.png)
 
 ## About
 
