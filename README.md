@@ -13,5 +13,5 @@ This webapp was developed using Flask Web Framework and was deployed on Heroku s
 | Disease        | Type of Model            | Accuracy |
 | -------------- | ------------------------ | -------- |
 | Diabetes       | Machine Learning Model   | 98.25%   |
-| Heart Disease  | Machine Learning Model   | 85.25%   |
+| Heart Disease  | Machine Learning Model   | 77.27%   |
 | Parkinsons Diesease  | Machine Learning Model   | 87.17%   |
