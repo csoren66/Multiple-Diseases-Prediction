@@ -19,7 +19,7 @@ This webapp was developed using Flask Web Framework and was deployed on Heroku s
 ## NOTE
 
 ==> Python version 3.9 was used for the whole project.<br>
-==> You can find all the models in [models](https://github.com/venugopalkadamba/Multi_Disease_Predictor/tree/master/models) folder.
+==> You can find all the models in [Saved model](https://github.com/csoren66/Multiple-Diseases-Prediction/tree/main/Saved%20model) folder.
 
 ## Steps to run this application in your system
 
@@ -49,15 +49,11 @@ All the datasets were used from kaggle.
 
 - [Diabetes Dataset](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
 - [Heart Disease Dataset](https://www.kaggle.com/ronitf/heart-disease-uci)
-- [Kidney Disease Dataset](https://www.kaggle.com/mansoordaku/ckdisease)
-- [Liver Disease Dataset](https://www.kaggle.com/uciml/indian-liver-patient-records)
-- [Malaria Dataset](https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria)
-- [Pneumonia Dataset](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
+- [Parkinsons Disease Dataset](https://www.kaggle.com/datasets/vikasukani/parkinsons-disease-data-set)
+
 
 ## Links for Python Notebooks used for model creation
 
-- [Diabetes Notebook](https://github.com/venugopalkadamba/Multi_Disease_Predictor/blob/master/Python%20Notebooks/Diabetes_Prediction.ipynb)
-- [Breast Cancer Notebook](https://github.com/venugopalkadamba/Multi_Disease_Predictor/blob/master/Python%20Notebooks/Cancer_Prediction.ipynb)
-- [Heart Disease Notebook](https://github.com/venugopalkadamba/Multi_Disease_Predictor/blob/master/Python%20Notebooks/Heart_Disease_Prediction.ipynb)
-- [Kidney Disease Notebook](https://github.com/venugopalkadamba/Multi_Disease_Predictor/blob/master/Python%20Notebooks/Kidney_Disease_Prediction.ipynb)
-- [Liver Disease Notebook](https://github.com/venugopalkadamba/Multi_Disease_Predictor/blob/master/Python%20Notebooks/Liver_Disease_Prediction.ipynb)
+- [Diabetes Notebook](https://github.com/csoren66/Multiple-Diseases-Prediction/blob/main/Notebook/Multiple_disease_prediction_system_diabetes.ipynb)
+- [Heart Disease Notebook](https://github.com/csoren66/Multiple-Diseases-Prediction/blob/main/Notebook/Multiple_disease_prediction_system_heart.ipynb)
+- [Parkinsons Disease Notebook](https://github.com/csoren66/Multiple-Diseases-Prediction/blob/main/Notebook/Multiple_disease_prediction_system_parkinsons.ipynb)
